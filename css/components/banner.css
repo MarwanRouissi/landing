@@ -1,0 +1,7 @@
+.banner {
+  background-image: url('../../images/1104558.jpg');
+  background-size: cover;
+  background-position-y: -120px;
+  padding: 200px 0;
+  color: white;
+}
