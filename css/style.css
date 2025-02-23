@@ -36,3 +36,21 @@ footer a {
   font-size: 32px;
   color: aliceblue;
 }
+
+@media (max-width: 900px) {
+  .container {
+    width: 500px;
+  }
+}
+
+@media (max-width: 500px) {
+  .container {
+    width: 300px;
+  }
+  .cards {
+    justify-content: space-around;
+  }
+  .card {
+    margin-bottom: 15px;
+  }
+}
